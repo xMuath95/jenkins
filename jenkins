@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo "Build the code using a build automation toolff too compile and packae your code"
+                echo "Build the code dusing a build automation toolff too compile and packae your code"
                 echo "tool: sbt or maven"
             }
         }
